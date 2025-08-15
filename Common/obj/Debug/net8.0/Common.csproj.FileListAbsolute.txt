@@ -1,0 +1,11 @@
+D:\dotnet\newOneFis\Common\bin\Debug\net8.0\Common.deps.json
+D:\dotnet\newOneFis\Common\bin\Debug\net8.0\Common.dll
+D:\dotnet\newOneFis\Common\bin\Debug\net8.0\Common.pdb
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\Common.dll
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\refint\Common.dll
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\Common.pdb
+D:\dotnet\newOneFis\Common\obj\Debug\net8.0\ref\Common.dll
