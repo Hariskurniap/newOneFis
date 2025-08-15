@@ -1451,11 +1451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\NewOneFisGitIttpn\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\dotnet\\NewOneFisGit\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\dotnet\\NewOneFisGit\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\haris\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\NewOneFisGitIttpn\\Infrastructure\\obj\\",
+      "outputPath": "D:\\dotnet\\NewOneFisGit\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1477,11 +1477,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dotnet\\NewOneFisGitIttpn\\Application\\Application.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Application\\Application.csproj"
+            "D:\\dotnet\\NewOneFisGit\\Application\\Application.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\Application\\Application.csproj"
             },
-            "D:\\dotnet\\NewOneFisGitIttpn\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Domain\\Domain.csproj"
+            "D:\\dotnet\\NewOneFisGit\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1490,6 +1490,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

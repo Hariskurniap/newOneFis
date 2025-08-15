@@ -10,3 +10,16 @@ D:\dotnet\newOneFis\Domain\obj\Debug\net8.0\Domain.dll
 D:\dotnet\newOneFis\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\dotnet\newOneFis\Domain\obj\Debug\net8.0\Domain.pdb
 D:\dotnet\newOneFis\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\dotnet\NewOneFisGit\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\dotnet\NewOneFisGit\Domain\bin\Debug\net8.0\Domain.dll
+D:\dotnet\NewOneFisGit\Domain\bin\Debug\net8.0\Domain.pdb
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.dll
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\Domain.pdb
+D:\dotnet\NewOneFisGit\Domain\obj\Debug\net8.0\ref\Domain.dll

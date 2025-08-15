@@ -2789,11 +2789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\NewOneFisGitIttpn\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\dotnet\\NewOneFisGit\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\dotnet\\NewOneFisGit\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\haris\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\NewOneFisGitIttpn\\WebAPI\\obj\\",
+      "outputPath": "D:\\dotnet\\NewOneFisGit\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2815,14 +2815,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dotnet\\NewOneFisGitIttpn\\Application\\Application.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Application\\Application.csproj"
+            "D:\\dotnet\\NewOneFisGit\\Application\\Application.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\Application\\Application.csproj"
             },
-            "D:\\dotnet\\NewOneFisGitIttpn\\Common\\Common.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Common\\Common.csproj"
+            "D:\\dotnet\\NewOneFisGit\\Common\\Common.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\Common\\Common.csproj"
             },
-            "D:\\dotnet\\NewOneFisGitIttpn\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Infrastructure\\Infrastructure.csproj"
+            "D:\\dotnet\\NewOneFisGit\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -2831,6 +2831,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

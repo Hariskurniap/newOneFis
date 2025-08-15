@@ -3833,11 +3833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\NewOneFisGitIttpn\\Tests\\Tests.csproj",
+      "projectUniqueName": "D:\\dotnet\\NewOneFisGit\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Tests\\Tests.csproj",
+      "projectPath": "D:\\dotnet\\NewOneFisGit\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\haris\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\NewOneFisGitIttpn\\Tests\\obj\\",
+      "outputPath": "D:\\dotnet\\NewOneFisGit\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3859,14 +3859,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dotnet\\NewOneFisGitIttpn\\Application\\Application.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Application\\Application.csproj"
+            "D:\\dotnet\\NewOneFisGit\\Application\\Application.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\Application\\Application.csproj"
             },
-            "D:\\dotnet\\NewOneFisGitIttpn\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\Infrastructure\\Infrastructure.csproj"
+            "D:\\dotnet\\NewOneFisGit\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\Infrastructure\\Infrastructure.csproj"
             },
-            "D:\\dotnet\\NewOneFisGitIttpn\\WebAPI\\WebAPI.csproj": {
-              "projectPath": "D:\\dotnet\\NewOneFisGitIttpn\\WebAPI\\WebAPI.csproj"
+            "D:\\dotnet\\NewOneFisGit\\WebAPI\\WebAPI.csproj": {
+              "projectPath": "D:\\dotnet\\NewOneFisGit\\WebAPI\\WebAPI.csproj"
             }
           }
         }

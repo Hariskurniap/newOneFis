@@ -1,0 +1,12 @@
+D:\dotnet\NewOneFisGit\Common\bin\Release\net8.0\Common.deps.json
+D:\dotnet\NewOneFisGit\Common\bin\Release\net8.0\Common.dll
+D:\dotnet\NewOneFisGit\Common\bin\Release\net8.0\Common.pdb
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\Common.AssemblyInfoInputs.cache
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\Common.AssemblyInfo.cs
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\Common.sourcelink.json
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\Common.dll
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\refint\Common.dll
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\Common.pdb
+D:\dotnet\NewOneFisGit\Common\obj\Release\net8.0\ref\Common.dll
